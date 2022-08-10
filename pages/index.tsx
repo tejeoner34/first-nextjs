@@ -4,6 +4,7 @@ import { DarkLayout } from '../components/layout/DarkLayout'
 import { Layout } from '../components/layout/Layoout'
 
 export default function Home() {
+  //comment test
   return (
     <h1 className={'title'}>Go to <Link href='/about'>About</Link></h1>
   )
